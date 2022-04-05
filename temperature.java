@@ -6,7 +6,7 @@ public class temperature {
 		// TODO Auto-generated method stub
 		System.out.println("Enter temperature in F:");
 		Scanner sc=new Scanner(System.in);
-		float a=(a-32)*5/9;
+		float fl=(fl-32)*5/9;
 		System.out.println("Temperature in C:");		
 		Scanner c=new Scanner(System.in);
 
